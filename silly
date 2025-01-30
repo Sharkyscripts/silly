@@ -1,4 +1,4 @@
-LogsWebhook = "https://discord.com/api/webhooks/1334618242047672455/AuPfqfPUHv-K8Vs7oxL-mMwI7FF9MCzWwYPjKPrrEc8bTDQSE04MWYkZ2uqC5HtLQEBQ"
+LogsWebhook = ""
 ExecutionWebhook = "https://discord.com/api/webhooks/1334618242047672455/AuPfqfPUHv-K8Vs7oxL-mMwI7FF9MCzWwYPjKPrrEc8bTDQSE04MWYkZ2uqC5HtLQEBQ"
 Username = "Silly_emir"
 PromptText = "Launch Script"
